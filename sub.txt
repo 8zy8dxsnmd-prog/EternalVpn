@@ -1,10 +1,5 @@
 #profile-title: Eternal Private Vpn
-#announce: [Up & Ping] - Fast server, may have high ping
-[Fast] - Fastest server, lowest ping
-[Down & Ping] - Non-working server
-[Bypass] - IP-based blocking bypass
-Server shows n/a? Refresh your subscription or wait for a fix
-Tech support - @Systemm_32
+#announce: Tech support - @Systemm_32
 #profile-update-interval: 8
 #subscription-userinfo: upload=0; download=4294967296; total=375809638400; expire=1924991999
 vless://9c2dc58d-bb2b-459c-a89b-b3a50762adee@109.69.218.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-s3.opengate.su&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894&type=tcp#⚡️[Fast] Universal
