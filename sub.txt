@@ -1,7 +1,7 @@
 #profile-title: Eternal Private Vpn
 #announce: Any questions? @Systemm_32
 #profile-update-interval: 8
-#subscription-userinfo: upload=0; download=0; total=999999999999; expire=1924991999
+#subscription-userinfo: upload=0; download=4294967296; total=375809638400; expire=1924991999
 vless://9c2dc58d-bb2b-459c-a89b-b3a50762adee@109.69.218.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-s3.opengate.su&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894&type=tcp#⚡️[Fast] Universal
 vless://a748ad1a-f9d6-41ea-8797-66343b4f963a@api.e0f.services:8443?fm=%257B%250A%2520%2520%2522fragment%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522packets%2522%2520:%2520%2522tlshello%2522,%250A%2520%2520%2520%2520%2522interval%2522%2520:%2520%252210-20%2522,%250A%2520%2520%2520%2520%2522length%2522%2520:%2520%252250-100%2522%250A%2520%2520%257D%250A%257D&type=xhttp&host=www.google.com&path=/xhttp&mode=auto&security=reality&fp=chrome&sni=www.google.com&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA[Up & Ping] Germany 
 vless://f3e050a7-0a4d-4b6e-9278-bbe98db6fa97@151.243.113.29:28001?flow=xtls-rprx-vision&fp=chrome&pbk=ONqeVSJ4AXk95mVGNNlbn444ir6jL4GmCMpjJ50Z6Dw&security=reality&sid=03d98d262a&sni=www.google.com&spx=%2F31G2V6AUGYDDwqD&type=tcp#🇩🇪[Up & Ping] Germany #2
