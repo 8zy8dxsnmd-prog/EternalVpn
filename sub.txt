@@ -1,4 +1,4 @@
-#profile-title: Eternal Private Vpn
+#profile-title: Zenith Private Vpn
 #announce: 🟢 | Work | Tech support - @Systemm_32
 #profile-update-interval: 2
 #subscription-userinfo: upload=0; download=4294967296; total=375809638400; expire=1924991999
