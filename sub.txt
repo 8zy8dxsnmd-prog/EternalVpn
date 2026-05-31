@@ -20,7 +20,6 @@ vless://a748ad1a-f9d6-41ea-8797-66343b4f963a@87.121.105.97:443?flow=xtls-rprx-vi
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?type=tcp&headerType=none&security=none#↓Bypass servers↓
 vless://9c2dc58d-bb2b-459c-a89b-b3a50762adee@117.55.202.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hello.opengate.tech&fp=chrome&pbk=pJZdgXS61oBi-VKn1QQ59cJTLn3pRNUryhKGWw2q6gM&sid=f793e9e847fdba7f&spiderX=%2F&type=tcp#🇳🇱[Bypass] Netherland
 vless://9c2dc58d-bb2b-459c-a89b-b3a50762adee@144.31.3.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.pythonhosted.org&fp=randomized&pbk=f7gW_x4XOC-Y-p2r__GCsFA2AmaofJyp5afcAfGc2wA&sid=b7c9bcde4b3ef655&spiderX=%2Fdownload%2F&type=tcp#🇵🇱[Bypass] Poland
-vless://9c2dc58d-bb2b-459c-a89b-b3a50762adee@87.120.219.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pypi.org&fp=randomized&pbk=pJTTlleR9ShI0KRCRYdvVX8RUak7boh0ZbdsYsnZexc&sid=a4fa4d4345d0319e&spiderX=%2F&type=tcp#🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥[Bypass] England
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?type=tcp&headerType=none&security=none#↓Proxy servers↓
 vless://9c2dc58d-bb2b-459c-a89b-b3a50762adee@185.173.223.154:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=randomized&sni=tehno.store&pbk=HzNvl-bydOrvVxyIbLEXsCjyKAI94_6EcaDpjrBPY1c#🇳🇱Proxy
 vless://9c2dc58d-bb2b-459c-a89b-b3a50762adee@37.49.230.106:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=randomized&sni=shieldblack.store&pbk=KKVLDnf_mcRIp4dNn_bCbd9gpFCzOCtxAtJ6JQdnQXE#🇳🇱Proxy #2
